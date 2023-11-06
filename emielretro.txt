@@ -1,0 +1,10 @@
+ik vond dat alles wel prima verlopen is gegaan we hebben wel geen daily standups gedaan maar we wisten van elkaar wel
+wie wat heeft gedaan het eerlijk verdelen dat ging al best snel weg want jan besloot in de eerste dag al alle backend te doen maar sprint 2 
+ging alles een stuk beter kwa verdeling aantekeningen in de sprintreview deden we al volgens mij maar mischien wat later maar we deden het wel
+comments klopt wel we hebben dat niet overal gedaan en dat moet wel
+de voorbereiding van een review ging inderdaad erg goed maar het is ook niet zo lastig als je ook gewoon goeie communicatie houd wie waar bezig is en dan komt het goed
+user stories ja wat moet ik daar over zeggen niet veel het ging goed ja meer niet
+functies komt vooral door jan want zoals ik zij hij heeft bijna alle backend gedaan maar hij deed het wel goed'
+code structuur is goed gegaan maar alsnog weet ik niet echt wat nou een slecht  structuur is
+commits ja er stond in wat je had gedaan dat is ook het enige wat moest
+feedback geven ja dat is altijd als je een review van iets doet dus is ook best customary

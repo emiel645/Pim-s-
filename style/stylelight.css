@@ -1,0 +1,81 @@
+body {
+    background-color: #DBE2EF;
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+.navbody {
+    background-color: #274971;
+}
+
+.ellemant-coller-navbar {
+    background-color: #9CB8D9;
+    color: black;
+}
+
+.cards-body {
+    background-color: #9CB8D9;
+}
+
+.selectbody {
+    background-color: #9CB8D9;
+}
+
+.acoller:hover {
+    color: #0d6efd;
+}
+
+.inputcodefield{
+    background-color: #DBE2EF; 
+}
+
+.cards-layout {
+    border-color: #112D4E;
+}
+
+.codefield {
+    background-color: #9CB8D9;
+}
+
+#inputfields {
+    background-color: #9CB8D9;
+    color: black;
+}
+
+#button {
+    background-color: #9CB8D9;
+    color: black;
+}
+
+.footerkols {
+    color: black !important;
+}
+
+.emiel {
+    border-color: black !important;
+}
+
+#inputfields::placeholder {
+    color: black;
+}
+/* edit css */
+.inputfieldsedit {
+    background-color: #9CB8D9;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.inputfieldsedit::placeholder {
+    color: white;
+}
+#save_button {
+    background-color: #9CB8D9;
+    width: 15%;
+    margin: auto;
+    color: black;
+}
